@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  
+  <title>Introduction</title>
+</head>
+<body>
+<h1> <font color= "Olive"> Mô tả bản thân </font></h1>
+<img src="myself.png" Aligh Right Width=120>
+<p Aligh = Justify>
+<p>Họ tên: Nguyễn Thị Thu Uyên
+<p>Ngày sinh: 2/10/1997
+<p>Cung hoàng đạo: Thiên Bình
+<p> Điều ám ảnh nhất trong ngày : Làm bài tập lớn
+<p> Click vào ảnh để xem  mô tả </p>
+
+<a href="Mota.txt">
+  <img src="Deadline.jpg" alt="Mô tả" width:30% height:50%>
+</a>
+  
+
+</body>
+</html>
